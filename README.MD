@@ -5,5 +5,6 @@ desc_linux_station - платформа для комортной работы �
 ```
 $ git clone https://github.com/ZEVS92/desc_lnux_station
 $ cd desc_linux_station 
+$ pip install -r requirements.txt
 $ python3 st7s.py
 ```
